@@ -32,3 +32,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Snow Mountain/Source/tga/mountain_Snow_000_Aldedo.tga
+Assets/Snow Mountain/Source/tga/mountain_Snow_000_Normal.tga
